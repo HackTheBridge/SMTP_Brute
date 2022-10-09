@@ -9,10 +9,10 @@ A very simple SMTP useername brute-forcer.
 Takes a namelist as an argument in format:
 `cat namelist.txt`
 
-`Jen
+Jen
 
 Moss
 
-Roy`
+Roy
 
 

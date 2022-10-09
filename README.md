@@ -1,6 +1,6 @@
 # SMTP_BruteForcer
 
-A very simple SMTP useername brute-forcer. 
+A very simple SMTP username brute-forcer. 
 
 ## Usage
 

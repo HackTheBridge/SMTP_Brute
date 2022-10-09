@@ -10,9 +10,7 @@ Takes a namelist as an argument in format:
 `cat namelist.txt`
 
 Jen
-
 Moss
-
 Roy
 
 
